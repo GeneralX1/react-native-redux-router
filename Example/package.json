@@ -9,6 +9,9 @@
     "snyk-protect": "snyk-protect"
   },
   "dependencies": {
+ snyk-fix-63716b7ff13d291cf4d6ce615a9ae018
+    "react-native": "0.68.0",
+
  snyk-fix-0877f1b74fa9fc2bf2835f24f1404b5e
     "react-native": "0.68.0",
 
@@ -16,6 +19,7 @@
     "react-native": "0.63.0",
 
     "react-native": "0.65.0",
+ master
  master
  master
     "react-native-button": "~1.2.1",
