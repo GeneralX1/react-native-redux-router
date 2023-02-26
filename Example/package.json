@@ -9,7 +9,7 @@
     "snyk-protect": "snyk-protect"
   },
   "dependencies": {
-    "react-native": "0.65.0",
+    "react-native": "0.68.0",
     "react-native-button": "~1.2.1",
     "react-native-navbar": "~1.1.6",
     "react-native-redux-router": "^1.0.0",
